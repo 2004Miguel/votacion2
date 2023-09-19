@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">clase4</string>
+    <string name="nombre">nombre:</string>
+    <string name="cedula">cedula:</string>
+    <string name="f_nacimiento">fecha de nacimiento:</string>
+    <string name="tituloapp">Votacion</string>
+    <string name="votacionA">A</string>
+    <string name="votacionB">B</string>
+    <string name="votacionC">C</string>
+    <string name="opcion">Votar:</string>
+    <string name="A">A</string>
+    <string name="B">B</string>
+    <string name="C">C</string>
+
+</resources>
